@@ -1,0 +1,45 @@
+﻿using System;
+
+namespace Atrasis.Magic.Logic.Data
+{
+	// Token: 0x02000133 RID: 307
+	public enum LogicAchievementActionType
+	{
+		// Token: 0x040006D7 RID: 1751
+		NPC_STARS,
+		// Token: 0x040006D8 RID: 1752
+		UPGRADE,
+		// Token: 0x040006D9 RID: 1753
+		VICTORY_POINTS,
+		// Token: 0x040006DA RID: 1754
+		UNIT_UNLOCK,
+		// Token: 0x040006DB RID: 1755
+		CLEAR_OBSTACLES,
+		// Token: 0x040006DC RID: 1756
+		DONATE_UNITS,
+		// Token: 0x040006DD RID: 1757
+		LOOT,
+		// Token: 0x040006DE RID: 1758
+		DESTROY = 9,
+		// Token: 0x040006DF RID: 1759
+		WIN_PVP_DEFENSE,
+		// Token: 0x040006E0 RID: 1760
+		WIN_PVP_ATTACK,
+		// Token: 0x040006E1 RID: 1761
+		LEAGUE,
+		// Token: 0x040006E2 RID: 1762
+		WAR_STARS,
+		// Token: 0x040006E3 RID: 1763
+		WAR_LOOT,
+		// Token: 0x040006E4 RID: 1764
+		DONATE_SPELLS,
+		// Token: 0x040006E5 RID: 1765
+		ACCOUNT_BOUND,
+		// Token: 0x040006E6 RID: 1766
+		VERSUS_BATTLE_TROPHIES,
+		// Token: 0x040006E7 RID: 1767
+		GEAR_UP,
+		// Token: 0x040006E8 RID: 1768
+		REPAIR_BUILDING
+	}
+}
