@@ -1,0 +1,14 @@
+{
+  "contentUrls": [
+    "http://192.168.100.2/Patchs/",
+    "http://192.168.100.2/Patchs/"
+  ],
+  "chronosContentUrls": [],
+  "appstoreUrls": [
+    "APPSTORE",
+    "APPSTORE",
+    "APPSTORE"
+  ],
+  "resourceSHA": "af0ebe8f1829e3519196ef262906b145988eb129",
+  "fbAppId": "FACEBOOK_APP_ID"
+}
